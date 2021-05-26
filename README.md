@@ -10,6 +10,10 @@
 
 **Website:** https://groupplayzdevs.wixsite.com/gpdevelopment
 
+## **Listening to:**
+
+[![Spotify](https://novatorem-anaheimducks16.vercel.app/api/spotify)](https://open.spotify.com/user/m6ursyww4cdab9ummtfq7z5e2)
+
 ## **About Me**
 
 My favorite sport is hockey, I have been playing hockey for about 7 years now. I currently play roller and ice hockey. My favorite NHL team is the Anaheim Ducks which is why I have the username AnaheimDucks16. I also have another hobby which is coding Discord bots in Node.js, which I've been doing for about a little under a year. I got interested in coding by seeing what bots can do, it all started when I made a Youtube channel which needed a Discord server and we needed bots. So I decided to learn how to make one. I am currently in High School. Feel free to contact me through any of the links above! For the quickest response please email me at `groupplayzdevs@gmail.com` or by joining my [Discord](https://discord.gg/UVSVGf5auF) support server.
@@ -55,3 +59,4 @@ If you would like to support some of my projects, please donate here. Thank you 
 Thanks for reading! Hope you learned some stuff about me! Don't forget to reach out to me if you have any questions or concerns.
 
 ![AnaheimDucks16's GitHub stats](https://github-readme-stats-anaheimducks16.vercel.app/api?username=AnaheimDucks16&include_all_commits=true&count_private=true&hide=stars&show_icons=true&theme=tokyonight)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnaheimDucks16&theme=tokyonight)
