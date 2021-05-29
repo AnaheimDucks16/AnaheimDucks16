@@ -61,4 +61,4 @@ Thanks for reading! Hope you learned some stuff about me! Don't forget to reach 
 
 ![AnaheimDucks16's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaheimDucks16&include_all_commits=true&count_private=true&hide=stars&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnaheimDucks16&theme=tokyonight)
+![GitHub Streak](https://read-me-streak-stats.herokuapp.com?user=AnaheimDucks16&theme=tokyonight)
