@@ -22,7 +22,7 @@ My favorite sport is hockey, I have been playing hockey for about 7 years now. I
 
 - ***Founder and Owner of the GroupPlayz Development:***  
 
-I am the founder and owner of [GroupPlayz Development](https://groupplayzdevs.wixsite.com/gpdevelopment), a Discord bots development team. Our public projects include [Fun Rocket](https://discord.com/api/oauth2/authorize?client_id=789570652369190963&permissions=2146954353&scope=bot) and [Space Enforcer](https://discord.com/api/oauth2/authorize?client_id=783825583892856844&permissions=2647125111&scope=bot). They are both advanced verified public Discord bots. In total, they are serving over 85,000 users!
+I am the founder and owner of [GroupPlayz Development](https://groupplayzdevs.wixsite.com/gpdevelopment), a Discord bots development team. Our public projects include [Fun Rocket](https://discord.com/api/oauth2/authorize?client_id=789570652369190963&permissions=2146954353&scope=bot) and [Space Enforcer](https://discord.com/api/oauth2/authorize?client_id=783825583892856844&permissions=2647125111&scope=bot%20applications.commands). They are both advanced verified public Discord bots. In total, they are serving over 85,000 users!
 
 <a href="https://discord.gg/UVSVGf5auF"><img src="https://discordapp.com/api/guilds/826523048373911643/widget.png?style=banner2"></a>
 
@@ -44,7 +44,7 @@ I am currently a bot developer for [TheGroupPlayz Discord Server](https://discor
 
 ## **Current Projects**
 
-Some of my current projects are [Space Enforcer](https://discord.com/api/oauth2/authorize?client_id=783825583892856844&permissions=2647125111&scope=bot) and [Fun Rocket](https://discord.com/api/oauth2/authorize?client_id=789570652369190963&permissions=2146954353&scope=bot) which are all verified public bots. You can get them on Top.gg and vote for them there. So *Space Enforcer*  is an advanced customizable moderation bot for Discord. Has commands like lock channels, slowmode, mod logs, and much more! While *Fun Rocket* is an advanced customizable fun bot for Discord. Provides fun and interactive commands like image manipulation, memes, and more! I am also working on an open-source Discord ticket bot. It lets your Discord server have a quick, easy, efficient ticket system. You can code it [here](https://github.com/AnaheimDucks16/Simple-Ticket-Bot). 
+Some of my current projects are [Space Enforcer](https://discord.com/api/oauth2/authorize?client_id=783825583892856844&permissions=2647125111&scope=bot%20applications.commands) and [Fun Rocket](https://discord.com/api/oauth2/authorize?client_id=789570652369190963&permissions=2146954353&scope=bot) which are all verified public bots. You can get them on Top.gg and vote for them there. So *Space Enforcer*  is an advanced customizable moderation bot for Discord. Has commands like lock channels, slowmode, mod logs, and much more! While *Fun Rocket* is an advanced customizable fun bot for Discord. Provides fun and interactive commands like image manipulation, memes, and more! I am also working on an open-source Discord ticket bot. It lets your Discord server have a quick, easy, efficient ticket system. You can code it [here](https://github.com/AnaheimDucks16/Simple-Ticket-Bot). 
 
 [![Discord Bots](https://top.gg/api/widget/783825583892856844.svg)](https://top.gg/bot/783825583892856844)
 [![Discord Bots](https://top.gg/api/widget/789570652369190963.svg)](https://top.gg/bot/789570652369190963) 
