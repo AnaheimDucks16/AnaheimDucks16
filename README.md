@@ -48,6 +48,7 @@ Some of my current projects are [Space Enforcer](https://discord.com/api/oauth2/
 
 [![Discord Bots](https://top.gg/api/widget/783825583892856844.svg)](https://top.gg/bot/783825583892856844)
 [![Discord Bots](https://top.gg/api/widget/789570652369190963.svg)](https://top.gg/bot/789570652369190963) 
+[![Discord Boats](https://discord.boats/api/widget/783825583892856844)](https://discord.boats/bot/783825583892856844)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Simple-Ticket-Bot&show_owner=true&theme=tokyonight)](https://github.com/AnaheimDucks16/Simple-Ticket-Bot)
 
 ## **Donations**
@@ -61,4 +62,4 @@ Thanks for reading! Hope you learned some stuff about me! Don't forget to reach 
 
 ![AnaheimDucks16's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaheimDucks16&include_all_commits=true&count_private=true&hide=stars&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://read-me-streak-stats.herokuapp.com?user=AnaheimDucks16&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaheimDucks16&theme=tokyonight)
