@@ -71,6 +71,6 @@ Thanks for reading! Hope you learned some stuff about me! Don't forget to reach 
 ![AnaheimDucks16's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaheimDucks16&include_all_commits=true&count_private=true&hide=stars&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaheimDucks16&layout=compact&theme=tokyonight)
 
-<b>Note:</b> Top languages doesn't reflect experience or skill level, it's a github metric of which languages I have the most code publically shown on GitHub.
+<b>Note:</b> Top languages don't reflect experience or skill level, it's a GitHub metric of which languages I have the most code publically shown on GitHub.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaheimDucks16&theme=tokyonight)
