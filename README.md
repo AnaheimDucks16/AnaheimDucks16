@@ -52,12 +52,12 @@ Some of my current projects are [Space Enforcer](https://discord.com/api/oauth2/
 [![Space Enforcer (Discord.boats)](https://discord.boats/api/widget/783825583892856844)](https://discord.boats/bot/783825583892856844)
 
 ### **Open Source Repositories**
-I am also working on an open-source Discord ticket bot. It lets your Discord server have a quick, easy, efficient ticket system. You can code it [here](https://github.com/AnaheimDucks16/Simple-Ticket-Bot). Another repository includes my [Dinosaur Game](https://github.com/AnaheimDucks16/Dinosaur-Game) which is inspired by Google Chrome's offline game.
+I am also working on an open-source Discord ticket bot. It lets your Discord server have a quick, easy, efficient ticket system. You can code it [here](https://github.com/AnaheimDucks16/Simple-Ticket-Bot). Another repository includes my [Dinosaur Game](https://github.com/AnaheimDucks16/Dinosaur-Game) which is inspired by Google Chrome's offline game. My [Hawaii Travel Project](https://github.com/AnaheimDucks16/Hawaii-Travel-Project) is a website that encourages tourism to Hawaii while demonstrating CSS and HTML skills. My [Coral Bleaching](https://github.com/AnaheimDucks16/Coral-Bleaching) website shows the effects of coral bleaching on the environment and how you can stop it.
 
-<p align="left">
-  <a href="https://github.com/AnaheimDucks16/Simple-Ticket-Bot"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Simple-Ticket-Bot&theme=tokyonight&hide_border=true" alt="Simple-Ticket-Bot"></a>
-  <a href="https://github.com/AnaheimDucks16/Dinosaur-Game"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Dinosaur-Game&theme=tokyonight&hide_border=true" alt="Dinosaur-Game"></a>
-  <a href="https://github.com/AnaheimDucks16/Hawaii-Travel-Project"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Hawaii-Travel-Project&theme=tokyonight&hide_border=true" alt="Hawaii Travel Project"></a>
+[![Simple-Ticket-Bot](https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Simple-Ticket-Bot&theme=tokyonight&hide_border=true)](https://github.com/AnaheimDucks16/Simple-Ticket-Bot)
+[![Dinosaur-Game](https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Dinosaur-Game&theme=tokyonight&hide_border=true)](https://github.com/AnaheimDucks16/Dinosaur-Game)
+[![Hawaii Travel Project](https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Hawaii-Travel-Project&theme=tokyonight&hide_border=true)](https://github.com/AnaheimDucks16/Hawaii-Travel-Project)
+[![Coral-Bleaching](https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Coral-Bleaching&theme=tokyonight&hide_border=true)](https://github.com/AnaheimDucks16/Coral-Bleaching)
 
 ## **Donations**
 
@@ -69,5 +69,8 @@ If you would like to support some of my projects, please donate here. Thank you 
 Thanks for reading! Hope you learned some stuff about me! Don't forget to reach out to me if you have any questions or concerns.
 
 ![AnaheimDucks16's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaheimDucks16&include_all_commits=true&count_private=true&hide=stars&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaheimDucks16&layout=compact&theme=tokyonight)
+
+<b>Note:</b> Top languages doesn't reflect experience or skill level, it's a github metric of which languages I have the most code publically shown on GitHub.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaheimDucks16&theme=tokyonight)
