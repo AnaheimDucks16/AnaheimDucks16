@@ -44,12 +44,20 @@ I am currently a bot developer for [TheGroupPlayz Discord Server](https://discor
 
 ## **Current Projects**
 
-Some of my current projects are [Space Enforcer](https://discord.com/api/oauth2/authorize?client_id=783825583892856844&permissions=2647125111&scope=bot%20applications.commands) and [Fun Rocket](https://discord.com/api/oauth2/authorize?client_id=789570652369190963&permissions=2146954353&scope=bot) which are all verified public bots. You can get them on Top.gg and vote for them there. So *Space Enforcer*  is an advanced customizable moderation bot for Discord. Has commands like lock channels, slowmode, mod logs, and much more! While *Fun Rocket* is an advanced customizable fun bot for Discord. Provides fun and interactive commands like image manipulation, memes, and more! I am also working on an open-source Discord ticket bot. It lets your Discord server have a quick, easy, efficient ticket system. You can code it [here](https://github.com/AnaheimDucks16/Simple-Ticket-Bot). 
+### **Discord Public Bots**
+Some of my current projects are [Space Enforcer](https://discord.com/api/oauth2/authorize?client_id=783825583892856844&permissions=2647125111&scope=bot%20applications.commands) and [Fun Rocket](https://discord.com/api/oauth2/authorize?client_id=789570652369190963&permissions=2146954353&scope=bot) which are all verified public bots. You can get them on Top.gg and Discord.boats. While your there, please vote for them there. So *Space Enforcer*  is an advanced customizable moderation bot for Discord. Has commands like lock channels, slowmode, mod logs, and much more! While *Fun Rocket* is an advanced customizable fun bot for Discord. Provides fun and interactive commands like image manipulation, memes, and more! 
 
-[![Discord Bots](https://top.gg/api/widget/783825583892856844.svg)](https://top.gg/bot/783825583892856844)
-[![Discord Bots](https://top.gg/api/widget/789570652369190963.svg)](https://top.gg/bot/789570652369190963) 
-[![Discord Boats](https://discord.boats/api/widget/783825583892856844)](https://discord.boats/bot/783825583892856844)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Simple-Ticket-Bot&show_owner=true&theme=tokyonight)](https://github.com/AnaheimDucks16/Simple-Ticket-Bot)
+[![Space Enforcer (Top.gg)](https://top.gg/api/widget/783825583892856844.svg)](https://top.gg/bot/783825583892856844)
+[![Fun Rocket (Top.gg)](https://top.gg/api/widget/789570652369190963.svg)](https://top.gg/bot/789570652369190963) 
+[![Space Enforcer (Discord.boats)](https://discord.boats/api/widget/783825583892856844)](https://discord.boats/bot/783825583892856844)
+
+### **Open Source Repositories**
+I am also working on an open-source Discord ticket bot. It lets your Discord server have a quick, easy, efficient ticket system. You can code it [here](https://github.com/AnaheimDucks16/Simple-Ticket-Bot). Another repository includes my [Dinosaur Game](https://github.com/AnaheimDucks16/Dinosaur-Game) which is inspired by Google Chrome's offline game.
+
+<p align="left">
+  <a href="https://github.com/AnaheimDucks16/Simple-Ticket-Bot"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Simple-Ticket-Bot&theme=tokyonight&hide_border=true" alt="Simple-Ticket-Bot"></a>
+  <a href="https://github.com/AnaheimDucks16/Dinosaur-Game"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Dinosaur-Game&theme=tokyonight&hide_border=true" alt="Dinosaur-Game"></a>
+  <a href="https://github.com/AnaheimDucks16/Hawaii-Travel-Project"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Hawaii-Travel-Project&theme=tokyonight&hide_border=true" alt="Hawaii Travel Project"></a>
 
 ## **Donations**
 
