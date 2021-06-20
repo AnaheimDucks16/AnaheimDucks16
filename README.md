@@ -73,4 +73,4 @@ Thanks for reading! Hope you learned some stuff about me! Don't forget to reach 
 
 <b>Note:</b> Top languages don't reflect experience or skill level, it's a GitHub metric of which languages I have the most code publically shown on GitHub.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaheimDucks16&theme=algolia)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaheimDucks16&theme=tokyonight)
