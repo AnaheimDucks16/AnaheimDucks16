@@ -2,7 +2,7 @@
 
 **Discord Server:** https://discord.gg/UVSVGf5auF
 
-**Discord Username:** [AnaheimDucks16#9494](https://discord.com/users/694308326644777013) 
+**Discord Username:** [AnaheimDucks16#0001](https://discord.com/users/694308326644777013) 
 
 **Youtube:** https://www.youtube.com/c/TheGroupPlayz?sub_confirmation=1
 
@@ -22,7 +22,7 @@ My favorite sport is hockey, I have been playing hockey for about 7 years now. I
 
 - ***Founder and Owner of the GroupPlayz Development:***  
 
-I am the founder and owner of [GroupPlayz Development](https://groupplayzdevs.wixsite.com/gpdevelopment), a Discord bots development team. Our public projects include [Fun Rocket](https://discord.com/api/oauth2/authorize?client_id=789570652369190963&permissions=2146954353&scope=bot) and [Space Enforcer](https://discord.com/api/oauth2/authorize?client_id=783825583892856844&permissions=2647125111&scope=bot%20applications.commands). They are both advanced verified public Discord bots. In total, they are serving over 85,000 users!
+I am the founder and owner of [GroupPlayz Development](https://groupplayzdevs.wixsite.com/gpdevelopment), a Discord bots development team. Our public projects include [Fun Rocket](https://discord.com/api/oauth2/authorize?client_id=789570652369190963&permissions=2146954353&scope=bot) and [Space Enforcer](https://discord.com/api/oauth2/authorize?client_id=783825583892856844&permissions=2647125111&scope=bot%20applications.commands). They are both advanced verified public Discord bots. In total, they are serving over 200,000 users!
 
 <a href="https://discord.gg/UVSVGf5auF"><img src="https://discordapp.com/api/guilds/826523048373911643/widget.png?style=banner2"></a>
 
