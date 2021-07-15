@@ -26,19 +26,9 @@ I am the founder and owner of [GroupPlayz Development](https://groupplayzdevs.wi
 
 <a href="https://discord.gg/UVSVGf5auF"><img src="https://discordapp.com/api/guilds/826523048373911643/widget.png?style=banner2"></a>
 
-- ***Owner of TheGroupPlayz Discord Server:***  
-
-I am the owner of the GroupPlayz Discord Server which is a community of people who just like to hang out and talk. This server mostly talks about anything and everything from gaming to life and more! If you want to come and check it out, your welcome too! I am very active on this server, so please reach out if you need anything. 
-
-<a href="https://discord.gg/jJEXXXmazd"><img src="https://discordapp.com/api/guilds/766814450275582014/widget.png?style=banner2"></a>
-
 - ***Founder of the YouTube Channel, TheGroupPlayz:***  
 
 So I oversee the YouTube channel, TheGroupPlayz. On this channel, we produce gaming videos like Among Us, Roblox, PS5 games, and more. My job is replying to comments and approving the videos that our recorders submit. Please check out our YouTube channel. You can watch some of our videos here, https://www.youtube.com/c/TheGroupPlayz?sub_confirmation=1. Don't forget to like and subscribe to our channel!
-
-- ***Bot Developer for TheGroupPlayz:***  
-
-I am currently a bot developer for [TheGroupPlayz Discord Server](https://discord.gg/jJEXXXmazd), the official Discord server of the YouTube group, [TheGroupPlayz](https://www.youtube.com/c/TheGroupPlayz?sub_confirmation=1). My job is to develop, host, and fix any Discord bots that are in the server. Some of the bots include *Fun Rocket*, *Space Enforcer*, *Support Station*, and *Rover Verify*. Some of the features include a ticket system, timed verification, moderation, fun commands, and more!
 
 - ***And More!***
 
