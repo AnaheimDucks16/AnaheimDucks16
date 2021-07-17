@@ -28,7 +28,7 @@ I am the founder and owner of [GroupPlayz Development](https://groupplayzdevs.wi
 
 - ***Founder of the YouTube Channel, TheGroupPlayz:***  
 
-So I oversee the YouTube channel, TheGroupPlayz. On this channel, we produce gaming videos like Among Us, Roblox, PS5 games, and more. My job is replying to comments and approving the videos that our recorders submit. Please check out our YouTube channel. You can watch some of our videos here, https://www.youtube.com/c/TheGroupPlayz?sub_confirmation=1. Don't forget to like and subscribe to our channel!
+So I oversee a YouTube channel with 650+ subscribers, TheGroupPlayz. On this channel, we produce gaming videos like Among Us, Roblox, PS5 games, and more. My job is replying to comments and approving the videos that our recorders submit. Please check out our YouTube channel. You can watch some of our videos here, https://www.youtube.com/c/TheGroupPlayz?sub_confirmation=1. Don't forget to like and subscribe to our channel!
 
 - ***And More!***
 
