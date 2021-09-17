@@ -32,7 +32,7 @@ So I oversee a YouTube channel with 700+ subscribers, TheGroupPlayz. On this cha
 
 - ***And More!***
 
-## **Current Projects**
+## **Former Projects**
 
 ### **Discord Public Bots**
 Some of my current projects are [Space Enforcer](https://discord.com/api/oauth2/authorize?client_id=783825583892856844&permissions=2580016247&scope=bot%20applications.commands&response_type=code) and [Fun Rocket](https://discord.com/oauth2/authorize?client_id=789570652369190963&permissions=3221605441&scope=bot%20applications.commands&response_type=code) which are all verified public bots. You can get them on Top.gg and Discord.boats. While your there, please vote for them there. So *Space Enforcer*  is an advanced customizable moderation bot for Discord. Has commands like lock channels, slowmode, mod logs, and much more! While *Fun Rocket* is an advanced customizable fun bot for Discord. Provides fun and interactive commands like image manipulation, memes, and more! 
