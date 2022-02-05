@@ -2,7 +2,7 @@
 
 **Discord Server:** https://discord.gg/UVSVGf5auF
 
-**Discord Username:** [AnaheimDucks16#0001](https://discord.com/users/694308326644777013) 
+**Discord Username:** [AnaheimDucks16#9692](https://discord.com/users/694308326644777013) 
 
 **Youtube:** https://www.youtube.com/c/TheGroupPlayz?sub_confirmation=1
 
@@ -28,7 +28,7 @@ I am the founder and owner of [GroupPlayz Development](https://groupplayzdevs.wi
 
 - ***Founder of the YouTube Channel, TheGroupPlayz:***  
 
-So I oversee a YouTube channel with 700+ subscribers, TheGroupPlayz. On this channel, we produce gaming videos like Among Us, Roblox, PS5 games, and more. My job is replying to comments and approving the videos that our recorders submit. Please check out our YouTube channel. You can watch some of our videos here, https://www.youtube.com/c/TheGroupPlayz?sub_confirmation=1. Don't forget to like and subscribe to our channel!
+So I oversee a YouTube channel with 800+ subscribers, TheGroupPlayz. On this channel, we produce gaming videos like Among Us, Roblox, PS5 games, and more. My job is replying to comments and approving the videos that our recorders submit. Please check out our YouTube channel. You can watch some of our videos here, https://www.youtube.com/c/TheGroupPlayz?sub_confirmation=1. Don't forget to like and subscribe to our channel!
 
 - ***And More!***
 
