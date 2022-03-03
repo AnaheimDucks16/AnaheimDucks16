@@ -48,6 +48,7 @@ I am working on my [Dinosaur Game](https://github.com/AnaheimDucks16/Dinosaur-Ga
 [![Dinosaur-Game](https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Dinosaur-Game&theme=tokyonight&hide_border=true)](https://github.com/AnaheimDucks16/Dinosaur-Game)
 [![Hawaii Travel Project](https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Hawaii-Travel-Project&theme=tokyonight&hide_border=true)](https://github.com/AnaheimDucks16/Hawaii-Travel-Project)
 [![Coral-Bleaching](https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Coral-Bleaching&theme=tokyonight&hide_border=true)](https://github.com/AnaheimDucks16/Coral-Bleaching)
+[![Kahoot Bot Spam](https://github-readme-stats.vercel.app/api/pin/?username=AnaheimDucks16&repo=Kahoot-Bot-Spam&theme=tokyonight&hide_border=true)](https://github.com/AnaheimDucks16/Kahoot-Bot-Spam)
 
 ## **Donations**
 
