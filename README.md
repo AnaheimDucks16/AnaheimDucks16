@@ -39,8 +39,6 @@ Some of my current projects are [Space Enforcer](https://discord.com/api/oauth2/
 
 [![Space Enforcer (Top.gg)](https://top.gg/api/widget/783825583892856844.svg)](https://top.gg/bot/783825583892856844)
 [![Fun Rocket (Top.gg)](https://top.gg/api/widget/789570652369190963.svg)](https://top.gg/bot/789570652369190963) 
-[![Space Enforcer (Discord.boats)](https://discord.boats/api/widget/783825583892856844)](https://discord.boats/bot/783825583892856844)
-[![Fun Rocket (Discord.boats)](https://discord.boats/api/widget/789570652369190963)](https://discord.boats/bot/789570652369190963)
 
 ### **Open Source Repositories**
 I am working on my [Dinosaur Game](https://github.com/AnaheimDucks16/Dinosaur-Game) which is inspired by Google Chrome's offline game. My [Hawaii Travel Project](https://github.com/AnaheimDucks16/Hawaii-Travel-Project) is a website that encourages tourism to Hawaii while demonstrating CSS and HTML skills. My [Coral Bleaching](https://github.com/AnaheimDucks16/Coral-Bleaching) website shows the effects of coral bleaching on the environment and how you can stop it.
