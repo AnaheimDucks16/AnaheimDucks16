@@ -16,7 +16,7 @@
 
 ## **About Me**
 
-My favorite sport is hockey, I have been playing hockey for about 7 years now. I currently play roller and ice hockey. My favorite NHL team is the Anaheim Ducks which is why I have the username AnaheimDucks16. I also have another hobby which is coding Discord bots in Node.js, which I've been doing for about a little under a year. I got interested in coding by seeing what bots can do, it all started when I made a Youtube channel that needed a Discord server and we needed bots. So I decided to learn how to make one. I am currently in High School. Feel free to contact me through any of the links above! For the quickest response please email me at `groupplayzdevs@gmail.com` or by joining my [Discord](https://discord.gg/UVSVGf5auF) support server.
+My favorite sport is hockey, I have been playing hockey for about 8 years now. I currently play roller and ice hockey. My favorite NHL team is the Anaheim Ducks which is why I have the username AnaheimDucks16. I also have another hobby which is coding Discord bots in Node.js, which I've been doing for about a little under a year. I got interested in coding by seeing what bots can do, it all started when I made a Youtube channel that needed a Discord server and we needed bots for the Discord server. So I decided to learn how to make one. I am currently in high school. Feel free to contact me through any of the links above! For the quickest response please email me at `groupplayzdevs@gmail.com` or by joining my [Discord](https://discord.gg/UVSVGf5auF) support server.
 
 ## **Current Jobs/Positions**
 
@@ -28,7 +28,7 @@ I am the founder and owner of [GroupPlayz Development](https://groupplayzdevs.wi
 
 - ***Founder of the YouTube Channel, TheGroupPlayz:***  
 
-So I oversee a YouTube channel with 800+ subscribers, TheGroupPlayz. On this channel, we produce gaming videos like Among Us, Roblox, PS5 games, and more. My job is replying to comments and approving the videos that our recorders submit. Please check out our YouTube channel. You can watch some of our videos here, https://www.youtube.com/c/TheGroupPlayz?sub_confirmation=1. Don't forget to like and subscribe to our channel!
+So I oversee a YouTube channel with 850+ subscribers, TheGroupPlayz. On this channel, we produce gaming videos on whatever games are popular. My job is replying to comments and approving the videos that our recorders submit. Please check out our YouTube channel. You can watch some of our videos here, https://www.youtube.com/c/TheGroupPlayz?sub_confirmation=1. Don't forget to like and subscribe to our channel!
 
 - ***And More!***
 
