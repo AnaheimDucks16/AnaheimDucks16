@@ -6,7 +6,7 @@
 
 **Youtube:** https://www.youtube.com/c/TheGroupPlayz?sub_confirmation=1
 
-**Twitter:** https://twitter.com/GroupPlayzDevs
+**Twitter:** https://twitter.com/Anaheim_Ducks16
 
 **Website:** https://groupplayzdevs.wixsite.com/gpdevelopment
 
