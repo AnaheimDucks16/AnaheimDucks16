@@ -8,6 +8,8 @@
 
 **Twitter:** https://twitter.com/Anaheim_Ducks16
 
+**Twitch:** https://www.twitch.tv/anaheimducks16
+
 **Website:** https://groupplayzdevs.wixsite.com/gpdevelopment
 
 ## **Listening to:**
