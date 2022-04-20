@@ -4,7 +4,7 @@
 
 **Discord Username:** [AnaheimDucks16#9692](https://discord.com/users/694308326644777013) 
 
-**Youtube:** https://www.youtube.com/c/TheGroupPlayz?sub_confirmation=1
+**Youtube:** https://www.youtube.com/c/AnaheimDucks16?sub_confirmation=1
 
 **Twitter:** https://twitter.com/Anaheim_Ducks16
 
