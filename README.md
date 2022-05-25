@@ -52,9 +52,7 @@ I am working on my [Dinosaur Game](https://github.com/AnaheimDucks16/Dinosaur-Ga
 
 ## **Donations**
 
-If you would like to support some of my projects, please donate here. Thank you in advance for your donation. 
-
-[![PayPal](https://i.postimg.cc/nhk2GwJg/Pay-Pal-Logo-1.png)](https://www.paypal.com/donate?business=DFLBWXDZRLVJE&currency_code=USD)  
+If you would like to support some of my projects, please message me on [Discord](https://discord.com/users/694308326644777013) for more info. Thank you in advance for your donation. 
 
 ## **Conclusion**
 Thanks for reading! Hope you learned some stuff about me! Don't forget to reach out to me if you have any questions or concerns.
