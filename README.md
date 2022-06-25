@@ -28,9 +28,9 @@ I am the founder and owner of [GroupPlayz Development](https://groupplayzdevs.wi
 
 <a href="https://discord.gg/UVSVGf5auF"><img src="https://discordapp.com/api/guilds/826523048373911643/widget.png?style=banner2"></a>
 
-- ***Founder of the YouTube Channel, TheGroupPlayz:***  
+- ***Founder of the YouTube Channel, AnaheimDucks16:***  
 
-So I oversee a YouTube channel with 850+ subscribers, TheGroupPlayz. On this channel, we produce gaming videos on whatever games are popular. My job is replying to comments and approving the videos that our recorders submit. Please check out our YouTube channel. You can watch some of our videos here, https://www.youtube.com/c/TheGroupPlayz?sub_confirmation=1. Don't forget to like and subscribe to our channel!
+So I oversee a YouTube channel with 350+ subscribers and 80,000+ on views. On this channel, I bring behind the scenes content of the Anaheim Ducks! Please check out my YouTube channel for the best Anaheim Ducks coverage, highlights, and more. You can watch some of our videos here, https://www.youtube.com/c/AnaheimDucks16?sub_confirmation=1. Don't forget to like and subscribe to my channel!
 
 - ***And More!***
 
