@@ -30,7 +30,7 @@ I am the founder and owner of [GroupPlayz Development](https://groupplayzdevs.wi
 
 - ***Founder of the YouTube Channel, AnaheimDucks16:***  
 
-So I oversee a YouTube channel with 650+ subscribers and 180,000+ on views. On this channel, I bring behind the scenes content of the Anaheim Ducks! Please check out my YouTube channel for the best Anaheim Ducks coverage, highlights, and more. You can watch some of our videos here, https://www.youtube.com/c/AnaheimDucks16?sub_confirmation=1. Don't forget to like and subscribe to my channel!
+So I oversee a YouTube channel with 700+ subscribers and 200,000+ on views. On this channel, I bring behind the scenes content of the Anaheim Ducks! Please check out my YouTube channel for the best Anaheim Ducks coverage, highlights, and more. You can watch some of our videos here, https://www.youtube.com/c/AnaheimDucks16?sub_confirmation=1. Don't forget to like and subscribe to my channel!
 
 - ***And More!***
 
